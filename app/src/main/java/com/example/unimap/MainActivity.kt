@@ -12,6 +12,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val btnLogin : Button = findViewById(R.id.loginBtn)
         btnLogin.setOnClickListener(){
+
+//            val fireIntent : Intent = Intent(this,FirebaseUIActivity::class.java)
+//            startActivity(fireIntent)
             val tabIntent : Intent = Intent(this,TabActivity::class.java)
             startActivity(tabIntent)
         }

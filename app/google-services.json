@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850635864183",
+    "project_id": "unimap-384219",
+    "storage_bucket": "unimap-384219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850635864183:android:e6c3e28b8df2fb05a5ee72",
+        "android_client_info": {
+          "package_name": "com.example.unimap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850635864183-s5aa544tlba8jdh5k7mvjid711brempg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuSsjhFA7jv-rfuz3LaPi7lgWTp20ynf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850635864183-m7ef8vd67bk130inmvpre00nb84ulmgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
